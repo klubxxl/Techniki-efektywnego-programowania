@@ -1,0 +1,6 @@
+﻿  CTable.cpp
+  Laboratoria2.cpp
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 2\Laboratoria2\Laboratoria2\Laboratoria2.cpp(60,29): error C2679: dwuargumentowy "=": nie znaleziono żadnego operatora, który przyjmuje prawostronny operand typu "CTable" (lub nie istnieje akceptowalna konwersja)
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 2\Laboratoria2\Laboratoria2\CTable.h(12,7): message : może to być „void CTable::operator =(CTable &)”
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 2\Laboratoria2\Laboratoria2\Laboratoria2.cpp(60,29): message : podczas próby dopasowania listy argumentów "(CTable, CTable)"
+  Generowanie kodu...

@@ -1,0 +1,6 @@
+﻿  CTreeDynamic.cpp
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria3\Laboratoria3\CTreeDynamic.cpp(49,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria3\Laboratoria3\CTreeDynamic.cpp(70,19): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria3\Laboratoria3\CTreeDynamic.cpp(80,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria3\Laboratoria3\CTreeDynamic.cpp(106,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Laboratoria3.vcxproj -> X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria3\Debug\Laboratoria3.exe

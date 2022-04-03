@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(159,19): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(158): message : podczas kompilowania funkcji składowej „CTreeDynamic<int>::CNodeDynamic *CTreeDynamic<int>::CNodeDynamic::pcGetChild(int)” klasy klasa szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\ConsoleApplication1.cpp(12): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>::CNodeDynamic *CTreeDynamic<int>::CNodeDynamic::pcGetChild(int)” funkcji szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(93): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>::CNodeDynamic” klasy klasa szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(171,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(169): message : podczas kompilowania funkcji składowej „void CTreeDynamic<int>::CNodeDynamic::vPrintAllBelow(void)” klasy klasa szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\ConsoleApplication1.cpp(42): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void CTreeDynamic<int>::CNodeDynamic::vPrintAllBelow(void)” funkcji szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(202,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(201): message : podczas kompilowania funkcji składowej „CTreeDynamic<int>::CNodeDynamic *CTreeDynamic<int>::CNodeDynamic::pcGetParent(int *)” klasy klasa szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(73): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>::CNodeDynamic *CTreeDynamic<int>::CNodeDynamic::pcGetParent(int *)” funkcji szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(51): message : podczas kompilowania funkcji składowej „CTreeDynamic<int>::CTreeDynamic(void)” klasy klasa szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\ConsoleApplication1.cpp(7): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>::CTreeDynamic(void)” funkcji szablon
+X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\ConsoleApplication1\CTreeDynamic.h(93): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>” klasy klasa szablon
+  ConsoleApplication1.vcxproj -> X:\STUDIA\Techniki Efektywnego Programowania\Laboratoria 4\lab4\Debug\ConsoleApplication1.exe
